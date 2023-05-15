@@ -1,2 +1,2 @@
-# Tetris-Clone
-Clone do jogo tetris jogo feito com intuito de estudos
+# Tetris
+C++ clone do jogo de computador Tetris (1984)
